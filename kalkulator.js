@@ -9,4 +9,6 @@ const kalkulator ={
 const result = kalkulator.add(10, 20);
 const result2 = kalkulator.subtract(10, 20);
 
+
 console.log(result);
+console.log(result2);
